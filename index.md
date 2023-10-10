@@ -1,3 +1,5 @@
-- # [Movies](https://roun4k.github.io/Media/Film)
+- # [Movies](/Film)
 
-- # [TV Shows](https://roun4k.github.io/Media/TV)
+- # [TV Shows](/TV)
+
+- # [Anime](/Anime)
