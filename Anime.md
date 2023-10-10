@@ -1,6 +1,7 @@
 # Currently Watching
 
 | Title                                                                            | Year | Rating   |
+| -------------------------------------------------------------------------------- | ---- | -------- |
 | Dragon Ball                                                                      | 1986 | ⭐⭐⭐        |
 | ONE PIECE (One Pace)                                                             | 1999 | ⭐⭐⭐⭐        |
 
@@ -70,7 +71,8 @@
 
 # Anime TV Shorts
 
-| Title                                        | Year     | Rating     |
+| Title                                                                            | Year | Rating   |
+| -------------------------------------------------------------------------------- | ---- | -------- |
 | I Can't Understand What My Husband Is Saying | 2014     | -          |
 | Why the hell are you here, Teacher!?         | 2019     | -          |
 
