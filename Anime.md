@@ -63,7 +63,7 @@
 | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat  | 2021 | -        |
 | Toradora!                                                                        | 2008 | -        |
 | Violet Evergarden                                                                | 2018 | -        |
-| When Supernatural Battles Became Commonplace                                     | 12   | -        |
+| When Supernatural Battles Became Commonplace                                     | 2014 | -        |
 | Wonder Egg Priority                                                              | 2021 | -        |
 | World's End Harem                                                                | 2022 | -        |
 | Wotakoi - Love is Hard for Otaku                                                 | 2018 | -        |
