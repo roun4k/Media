@@ -1,5 +1,5 @@
-- # [Movies](/Film)
+- # [Movies](/Media/Film)
 
-- # [TV Shows](/TV)
+- # [TV Shows](/Media/TV)
 
-- # [Anime](/Anime)
+- # [Anime](/Media/Anime)
