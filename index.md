@@ -3,3 +3,5 @@
 - # [TV Shows](/Media/TV)
 
 - # [Anime](/Media/Anime)
+
+- # [Manga](/Media/Manga)
