@@ -5,3 +5,5 @@
 - # [Anime](/Media/Anime)
 
 - # [Manga](/Media/Manga)
+
+- # [Comic Books](/Media/Comics)
