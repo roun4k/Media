@@ -1,11 +1,11 @@
-- # [Movies](/Media/Film)
+- ## [Movies](/Media/Film)
 
-- # [TV Shows](/Media/TV)
+- ## [TV Shows](/Media/TV)
 
-- # [Books](/Media/Books)
+- ## [Books](/Media/Books)
 
-- # [Anime](/Media/Anime)
+- ## [Anime](/Media/Anime)
 
-- # [Manga](/Media/Manga)
+- ## [Manga](/Media/Manga)
 
-- # [Comic Books](/Media/Comics)
+- ## [Comic Books](/Media/Comics)
