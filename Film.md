@@ -2,6 +2,7 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+| Tue, Oct 24, 2023 | Totally Killer                                            | 2023 | ⭐⭐⭐   |
 | Wed, Oct 18, 2023 | Oppenheimer                                               | 2023 | ⭐⭐⭐⭐ |
 | Tue, Sep 26, 2023 | Rocky Aur Rani Kii Prem Kahaani                           | 2023 | ⭐⭐⭐⭐ |
 | Sat, Sep 16, 2023 | The Northman                                              | 2022 | ⭐⭐⭐⭐ |
