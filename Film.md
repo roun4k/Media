@@ -2,6 +2,8 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+| Wed, Oct 25, 2023 | Superbad                                                  | 2007 | ⭐⭐⭐⭐ |
+| Wed, Oct 25, 2023 | Bottoms                                                   | 2023 | ⭐⭐⭐⭐ |
 | Tue, Oct 24, 2023 | Totally Killer                                            | 2023 | ⭐⭐⭐   |
 | Wed, Oct 18, 2023 | Oppenheimer                                               | 2023 | ⭐⭐⭐⭐ |
 | Tue, Sep 26, 2023 | Rocky Aur Rani Kii Prem Kahaani                           | 2023 | ⭐⭐⭐⭐ |
