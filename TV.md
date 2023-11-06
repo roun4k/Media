@@ -25,6 +25,7 @@
 |Fleabag|2016|2|-|
 |Friends|1994|10|-|
 |Game of Thrones|2011|8|-|
+|Gen V|2023|1|⭐⭐⭐|
 |Gravity Falls|2012|2|-|
 |Hanna|2019|1|-|
 |Harley Quinn|2019|3|-|
