@@ -2,6 +2,9 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+|Thu, Jan 3, 2024|Apur Sansar|1959|⭐⭐⭐|
+|Wed, Jan 3, 2024|Aparajito|1956|⭐⭐|
+|Tue, Jan 2, 2024|Pather Panchali|1955|⭐⭐|
 | Mon, Jan 1, 2024  | Super Deluxe                                              | 2019 | ⭐⭐⭐⭐ |
 | Sun, Dec 31, 2023 | The Archies                                               | 2023 | ⭐       |
 | Sun, Dec 3, 2023  | Animal                                                    | 2023 | ⭐⭐⭐   |
