@@ -10,6 +10,7 @@
 |Arrow|2012|6|-|
 |Barry|2018|1|-|
 |Beauty and the Geek UK|2022|1|-|
+|Beef|2023|1|⭐⭐⭐⭐|
 |Big Mouth|2017|4|-|
 |Black Mirror|2011|4|-|
 |BoJack Horseman|2014|2|-|
