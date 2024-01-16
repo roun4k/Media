@@ -2,6 +2,7 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+|Sun, Jan 7, 2024|12th Fail|2023|⭐⭐⭐⭐|
 |Thu, Jan 4, 2024|Apur Sansar|1959|⭐⭐⭐|
 |Wed, Jan 3, 2024|Aparajito|1956|⭐⭐|
 |Tue, Jan 2, 2024|Pather Panchali|1955|⭐⭐|
