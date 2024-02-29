@@ -14,6 +14,7 @@
 | Blood Lad                                                                        | 2013 | -        |
 | Bungo Stray Dogs                                                                 | 2016 | -        |
 | Burning Kabaddi                                                                  | 2021 | -        |
+| Campfire Cooking in Another World with my Absurd Skill                           | 2023 | -        |
 | Daily Lives of High School Boys                                                  | 2012 | -        |
 | Death Note                                                                       | 2006 | -        |
 | Demon Slayer - Kimetsu no Yaiba                                                  | 2019 | -        |
@@ -49,6 +50,7 @@
 | My Dress-Up Darling                                                              | 2022 | -        |
 | My First Girlfriend is a Gal                                                     | 2017 | -        |
 | My Girlfriend is Shobitch                                                        | 2017 | -        |
+| My Unique Skill Makes Me OP even at Level 1                                      | 2023 | -        |
 | No Game, No Life                                                                 | 2014 | -        |
 | One-Punch Man                                                                    | 2015 | -        |
 | Platinum End                                                                     | 2021 | -        |
@@ -61,6 +63,7 @@
 | SPY×FAMILY                                                                       | 2022 | -        |
 | SPY×FAMILY Cour 2                                                                | 2022 | -        |
 | Sword Art Online                                                                 | 2012 | -        |
+| The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You          | 2023 | -        |
 | The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat  | 2021 | -        |
 | Toradora!                                                                        | 2008 | -        |
 | Violet Evergarden                                                                | 2018 | -        |
