@@ -2,6 +2,10 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+|Wed, Mar 13, 2024|Dune: Part Two|⭐⭐⭐⭐|
+|Sun, Mar 10, 2024|Shaitaan|2024|⭐⭐|
+|Fri, Mar 8, 2024|Dunki|2023|⭐⭐⭐⭐|
+|Mon, Mar 4, 2024|Dune|2021|⭐⭐⭐⭐|
 |Thu, Feb 29, 2024|Poor Things|2023|⭐⭐⭐|
 |Sun, Jan 7, 2024|12th Fail|2023|⭐⭐⭐⭐|
 |Thu, Jan 4, 2024|Apur Sansar|1959|⭐⭐⭐|
