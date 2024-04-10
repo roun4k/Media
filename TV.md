@@ -20,6 +20,7 @@
 |Community|2009|6|-|
 |Dahmer - Monster - The Jeffrey Dahmer Story|2022|1|-|
 |Devs|2020|1|-|
+|Echo|2024|1|-|
 |Euphoria|2019|2|-|
 |Everybody Hates Chris|2005|4|-|
 |Family Guy|1999|7x06|-|
@@ -37,7 +38,7 @@
 |It's Always Sunny in Philadelphia|2005|3|-|
 |Koala Man|2023|1|-|
 |Locke & Key|2020|1|-|
-|Loki|2021|1|-|
+|Loki|2021|2|-|
 |Love, Death & Robots|2019|3|-|
 |Lovecraft Country|2020|1|-|
 |Marco Polo|2014|2|-|
@@ -59,6 +60,7 @@
 |Russian Doll|2019|1|-|
 |Scam 1992 - The Harshad Mehta Story|2020|1|-|
 |Scavengers Reign|2023|1|⭐⭐⭐|
+|Secret Invasion|2023|1|-|
 |See|2019|1|-|
 |Sex Education|2019|4|-|
 |She-Hulk - Attorney at Law|2022|1|-|
