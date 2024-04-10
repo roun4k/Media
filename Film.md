@@ -2,6 +2,14 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+|Wed, Apr 3, 2024|The Marvels|2023|⭐⭐|
+|Mon, Apr 1, 2024|Super Deluxe|2019|⭐⭐⭐⭐|
+|Sun, Mar 31, 2024|Shaolin Soccer|2001|⭐⭐⭐|
+|Sun, Mar 31, 2024|Snake in the Eagle's Shadow|1978|⭐⭐|
+|Sun, Mar 31, 2024|Race|2008|⭐|
+|Sun, Mar 31, 2024|Aitraaz|2004|⭐⭐⭐|
+|Sat, Mar 30, 2024|Jawan|2023|⭐⭐⭐⭐|
+|Thu, Mar 28, 2024|Teri Baaton Mein Aisa Uljha Jiya|2024|⭐⭐⭐|
 |Wed, Mar 13, 2024|Dune: Part Two|2024|⭐⭐⭐⭐|
 |Sun, Mar 10, 2024|Shaitaan|2024|⭐⭐|
 |Fri, Mar 8, 2024|Dunki|2023|⭐⭐⭐⭐|
