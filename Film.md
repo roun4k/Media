@@ -2,6 +2,13 @@
 
 | Date              | Film                                                      | Year | Rating   |
 | ----------------- | --------------------------------------------------------- | ---- | -------- |
+|Sun, May 19, 2024|Nope|2022||
+|Sat, May 18, 2024|The Commuter|2018||
+|Fri, May 3, 2024|Love Lies Bleeding|2024|⭐⭐⭐|
+|Wed, May 1, 2024|Donnie Darko|2001|⭐⭐⭐⭐|
+|Sun, Apr 28, 2024|Amar Singh Chamkila|2024|⭐⭐|
+|Sun, Apr 28, 2024|Monkey Man|2024|⭐⭐⭐|
+|Thu, Apr 18, 2024|Immaculate|2024|⭐⭐|
 |Wed, Apr 3, 2024|The Marvels|2023|⭐⭐|
 |Mon, Apr 1, 2024|Super Deluxe|2019|⭐⭐⭐⭐|
 |Sun, Mar 31, 2024|Shaolin Soccer|2001|⭐⭐⭐|
