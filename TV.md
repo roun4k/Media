@@ -81,8 +81,10 @@
 |The Boys|2019|3|-|
 |The End of the Fucking World|2017|2|-|
 |The Falcon and the Winter Soldier|2021|1|-|
+|The Family Man|2019|2|-|
 |The Flash|2014|8|-|
 |The Haunting of Hill House|2018|1|-|
+|The Idol|2023|1|-|
 |The Last Kingdom|2015|5|-|
 |The Last of Us|2023|1|-|
 |The Mandalorian|2019|2|-|
