@@ -1,5 +1,3 @@
-- ## [Movies](/Media/Film)
-
 - ## [TV Shows](/Media/TV)
 
 - ## [Books](/Media/Books)
