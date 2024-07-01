@@ -102,5 +102,5 @@
 |Y - The Last Man|2021|1|-|
 |Yellowjackets|2021|1|-|
 |You|2018|4|-|
-|Young Sheldon|2017|6|-|
+|Young Sheldon|2017|7|-|
 |Как я стал русским|2015|1|-|
